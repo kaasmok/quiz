@@ -1,0 +1,26 @@
+[
+    {
+        "pytanie":"Powiadomienia w systemach mobilnych to inaczej?",
+        "a":"info bar",
+        "b":"messages",
+        "c":"push notifications",
+        "d":"news messages",
+        "prawidlowa_odpowiedz":"c"
+    },
+    {
+        "pytanie":"Co oznaczają skróty nazw środowisk DEV, STG, PROD?",
+        "a":"Development, Stage, Production",
+        "b":"Deployment, Stop, Production",
+        "c":"Desiderata, Start, Project",
+        "d":"Development, Stop, Preproduction",
+        "prawidlowa_odpowiedz":"a"
+    },
+    {
+        "pytanie":"Które słowo kluczowe nie służy do tworzenia warunków w Pythonie?",
+        "a":"if",
+        "b":"endif",
+        "c":"else",
+        "d":"elif",
+        "prawidlowa_odpowiedz":"b"
+    }
+]
