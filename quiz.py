@@ -26,8 +26,8 @@ def show_question(question):
 
 with open("quiz.json", encoding="utf-8") as json_file:
     questions = json.load(json_file)
-    current_time = int(time.time())  # Pobranie aktualnego czasu (w sekundach)
-    random.seed(current_time)  # Ustawienie ziarna generatora losowego
+    current_time = int(time.time())
+    random.seed(current_time)
     random.shuffle(questions)
 
     for i in range(0, len(questions)):
