@@ -22,5 +22,62 @@
         "c":"else",
         "d":"elif",
         "prawidlowa_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Co to jest Docker?",
+        "a":"biblioteka Java",
+        "b":"otwarte oprogramowanie służace do realizacji wirtualizacji na poziomie systemu operacyjnego",
+        "c":"lokalizator w Selenium",
+        "d":"telefon podłączony do Appium",
+        "prawidlowa_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Aplikacja moblina npisana w języku Swift dla systemu mobilnego od firmy Apple to aplikacja?",
+        "a":"aplikacja hybrydowa",
+        "b":"aplikacja webowa",
+        "c":"aplikacja desktopowa",
+        "d":"aplikacja natywna",
+        "prawidlowa_odpowiedz":"d"
+    },
+    {
+        "pytanie":"Do czego służy Selenium Webdriver?",
+        "a":"do programowania w Pythonie",
+        "b":"do programowania w Javie",
+        "c":"do sterowania przeglądarką i automatyzowania testów GUI",
+        "d":"do wywoływania wyjątków",
+        "prawidlowa_odpowiedz":"c"
+    },
+    {
+        "pytanie":"Biblioteki klienckie w Appium nie są dostępne w języku?",
+        "a":"Java",
+        "b":"Python",
+        "c":"Javascript",
+        "d":"Go",
+        "prawidlowa_odpowiedz":"d"
+    },
+    {
+        "pytanie":"Środowisko deweloperskie dla platformy Android to?",
+        "a":"Google Android IDE",
+        "b":"Android Development Center",
+        "c":"Android Studio",
+        "d":"PyCharm for Android",
+        "prawidlowa_odpowiedz":"c"
+    },
+    {
+        "pytanie":"Python - znajdź fałsz",
+        "a":"jest językiem skryptowym",
+        "b":"działa tylko pod Linuksem",
+        "c":"powala posiadać kilka wersji na jednym komputerze",
+        "d":"jest językiem interpretowanym",
+        "prawidlowa_odpowiedz":"b"
+        
+    },
+    {
+        "pytanie":"Piramko służy do?",
+        "a":"obługi shh",
+        "b":"obsługi http",
+        "c":"obsługi protokołu miko",
+        "d":"obsługi protkołu para w Pythonie",
+        "prawidlowa_odpowiedz":"a"
     }
 ]
