@@ -73,8 +73,8 @@
         
     },
     {
-        "pytanie":"Piramko służy do?",
-        "a":"obługi shh",
+        "pytanie":"Paramiko służy do?",
+        "a":"obługi ssh",
         "b":"obsługi http",
         "c":"obsługi protokołu miko",
         "d":"obsługi protkołu para w Pythonie",
